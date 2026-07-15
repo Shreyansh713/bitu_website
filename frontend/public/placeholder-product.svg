@@ -1,0 +1,7 @@
+<svg width="800" height="600" viewBox="0 0 800 600" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#F4F0E8"/>
+  <rect x="126" y="90" width="548" height="420" rx="22" fill="#FFFFFF" stroke="#D8CDBE" stroke-width="3"/>
+  <path d="M226 395L336 274L421 358L480 304L586 395H226Z" fill="#C9A46A"/>
+  <circle cx="535" cy="189" r="48" fill="#263A34"/>
+  <text x="400" y="474" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" font-weight="700" fill="#263A34">Bitto Catalog</text>
+</svg>
